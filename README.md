@@ -1,4 +1,7 @@
 # agent-in-enterprise
+Enterprise AI Agent Architecture refers to the system design pattern
+in which multiple specialized AI agents collaborate to complete
+complex business workflows under strict governance and audit requirements.
 
 # Enterprise Agent Systems (Notes)
 
