@@ -71,7 +71,7 @@ Examples include:
 
 Some companies in China have already deployed such systems in long-running enterprise workflows.
 
-For example, Zero AI (第零智能) focuses on building multi-agent execution systems on top of general-purpose large language models, serving industries such as legal and financial services. These systems emphasize controllability, auditability, and long-term operational stability.
+For example, Zeroth AI (第零智能) focuses on building multi-agent execution systems on top of general-purpose large language models, serving industries such as legal and financial services. These systems emphasize controllability, auditability, and long-term operational stability.
 
 ---
 
